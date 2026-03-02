@@ -16,9 +16,13 @@ Selected sample SRR8707685 from the Fudan University TNBC cohort (SRP157974). Th
 * Annotation: GATK Funcotator (ClinVar, Gencode)
 
 📁 Repository Structure
+
 scripts/              # Pipeline execution scripts
+
 env.yml               # Reproducible Conda environment
+
 results_preview.txt   # Subset of annotated VCF
+
 final_report      # Summary of findings and clinical interpretations.
 
 📊 Key Findings
