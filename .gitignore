@@ -1,0 +1,6 @@
+reads_data/
+aligned_reads/
+ref_data/
+results/*.vcf
+results/*.idx
+*.tar.gz
