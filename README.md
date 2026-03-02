@@ -1,7 +1,7 @@
 # TNBC-Variant-Pipeline: End-to-end GATK-based workflow for identifying clinically actionable variants in Triple-Negative Breast Cancer (TNBC).
 
 This repository implements a reproducible precision oncology pipeline following GATK Best Practices to analyze raw sequencing data from a Triple-Negative Breast Cancer (TNBC) tumor sample SRR8707685, Fudan University TNBC cohort.
-The objective of this project is to demonstrate how raw next-generation sequencing (NGS) data can be processed through alignment, quality recalibration, somatic variant calling, and functional annotation to identify high-impact mutations relevant to targeted therapy. This project is designed as a computational demonstration of a tumor-only somatic variant calling workflow and does not constitute a clinical diagnostic analysis.
+The objective of this project is to demonstrate how raw next-generation sequencing (NGS) data can be processed through alignment, quality recalibration, somatic variant calling, and functional annotation to identify high-impact mutations relevant to targeted therapy. This project is designed as a computational demonstration of a WES somatic variant calling workflow and does not constitute a clinical diagnostic analysis.
 
 Biological Question: Can we identify clinically actionable mutations in a TNBC tumor sample that may inform targeted therapy strategies? 
 Triple-Negative Breast Cancer is frequently associated with deficiencies in the Homologous Recombination (HR) DNA repair pathway, particularly involving BRCA1/2 alterations. Identifying high-impact variants in these genes can have therapeutic implications.
